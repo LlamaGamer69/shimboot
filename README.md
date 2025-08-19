@@ -1,6 +1,6 @@
 # Chrome OS RMA Shim Bootloader
 
-If you want to get right in to it, here are some [prebuilt images](https://github.com/ading2210/shimboot/releases). However, I suggest reading at least from [here](#usage)
+If you want to get right in to it, here are some [prebuilt images](https://github.com/ading2210/shimboot/releases). However, I suggest reading this to at least get you more comfortable with the process.
 
 Shimboot is a collection of scripts for patching a Chrome OS RMA shim to serve as a bootloader for a standard Linux distribution. It allows you to boot a full desktop Debian install on a Chromebook, without needing to unenroll it or modify the firmware.
 
